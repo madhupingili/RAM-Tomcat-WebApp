@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>Your Title Here</TITLE>
 </HEAD>
-<BODY BGCOLOR="FFFFFF">
+<BODY BGCOLOR="5555">
 <CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
 <HR>
 <a href="http://somegreatsite.com">Link Name</a>
