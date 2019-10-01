@@ -8,7 +8,7 @@
 <a href="https://portal.azure.com">Azure portal</a>
 is a link to another nifty site
 <font size="15">WELCOME TO CAPGEMINI RAM POC TEAM!</font>
-<p><font size="7" color="#0000A0">Yurrreeekkaaaaaaaaaaa</font></p>
+<p><font size="7" color="#1F45FC">Yurrreeekkaaaaaaaaaaa</font></p>
 <P> It's just the begining!!!!!
 <P> <B>Wait for the Mirracles!!!</B>
 <font size="15"></font>
