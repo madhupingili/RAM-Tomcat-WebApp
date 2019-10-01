@@ -8,13 +8,10 @@
 <a href="https://portal.azure.com">Link Name</a>
 is a link to another nifty site
 <font size="15">WELCOME TO CAPGEMINI RAM POC TEAM!</font>
-<p>Base font</p>
-<p><font size="5">Font size 5</font></p>
-<p><font size="-1">Font size -1</font></p>
-<p><font color="red">Red color</font></p>
-<p><font size="7" color="#00ff00">Yurrreeekkaaaaaaaaaaa</font></p>
+<p><font size="7" color="#0000A0">Yurrreeekkaaaaaaaaaaa</font></p>
 <P> It's just the begining!!!!!
 <P> <B>Wait for the Mirracles!!!</B>
+<font size="15"></font>
 <BR> <B><I></I></B>
 <HR>
 </BODY>
