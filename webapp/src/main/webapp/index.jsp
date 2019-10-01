@@ -2,10 +2,10 @@
 <HEAD>
 <TITLE>Your Title Here</TITLE>
 </HEAD>
-<BODY BGCOLOR="8888">
+<BODY BGCOLOR="2222">
 <CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
 <HR>
-<a href="https://talent.capgemini.com">Link Name</a>
+<a href="https://portal.azure.com">Link Name</a>
 is a link to another nifty site
 <H1>WELCOME TO CAPGEMINI RAM POC TEAM </H1>
 <H2>Yurrrrekkaaaaaaaaaaa</H2>
