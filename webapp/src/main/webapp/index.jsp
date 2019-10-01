@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>Your Title Here</TITLE>
 </HEAD>
-<BODY BGCOLOR="2222">
+<BODY BGCOLOR="4ECD0B">
 <CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
 <HR>
 <a href="https://portal.azure.com">Link Name</a>
